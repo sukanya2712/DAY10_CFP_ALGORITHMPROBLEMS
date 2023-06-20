@@ -1,0 +1,15 @@
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\bin\Debug\net6.0\ALGORITHM.exe
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\bin\Debug\net6.0\ALGORITHM.deps.json
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\bin\Debug\net6.0\ALGORITHM.runtimeconfig.json
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\bin\Debug\net6.0\ALGORITHM.dll
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\bin\Debug\net6.0\ALGORITHM.pdb
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.csproj.AssemblyReference.cache
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.AssemblyInfoInputs.cache
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.AssemblyInfo.cs
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.csproj.CoreCompileInputs.cache
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.dll
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\refint\ALGORITHM.dll
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.pdb
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ALGORITHM.genruntimeconfig.cache
+C:\Users\Sukanay\source\repos\ALGORITHM\ALGORITHM\obj\Debug\net6.0\ref\ALGORITHM.dll
